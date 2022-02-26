@@ -1,8 +1,8 @@
-# COMS6998 Cloud Computing & Big Data Assignment 1
+# Dining Concierge Chatbot
 
-Team Members:
+S3 frontened URL:
 
-Jincheng Xu (UNI: jx2467), Yuerong Zhang (UNI: yz4143)
+http://my-chatbot-bucket.s3-website-us-east-1.amazonaws.com/
 
 
 
